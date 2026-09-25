@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.zhangbao11.cn/sitemap.xml
